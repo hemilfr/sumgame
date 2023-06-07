@@ -1,0 +1,23 @@
+#score {
+  position: absolute;
+  top: 10px;
+  left: 10px;
+}
+
+#clicked {
+  position: absolute;
+  top: 40px;
+  left: 10px;
+}
+
+#missed {
+  position: absolute;
+  top: 70px;
+  left: 10px;
+}
+
+#accuracy {
+  position: absolute;
+  top: 100px;
+  left: 10px;
+}
